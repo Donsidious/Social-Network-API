@@ -115,8 +115,11 @@ To utilize this application, you can start the server by running either `npm run
 ## Suggested Future Development
 
 -Enrich the seed data by incorporating the faker-js package from node package manager
+
 -Extend the application's functionality by developing additional routes for likes or up-votes
+
 -Develop a user-friendly front-end UI to facilitate seamless interaction with the application
+
 -Incorporate Jest for unit testing to ensure code reliability and performance
 
 ## Contribution Guidelines
